@@ -9,8 +9,6 @@ This repository contains SQL queries that perform data exploration and analysis 
 
 ## Overview: 
 
-This project is a web scraping script using Python to extract product information from Flipkart. It utilizes BeautifulSoup, Requests, and Pandas libraries to extract details like title, price, rating, reviews, and availability of products related to a given search query.
-
 The SQL scripts provided here are designed to explore and analyze two primary datasets:
 
 • CovidDeaths Dataset: Contains information about COVID deaths.
